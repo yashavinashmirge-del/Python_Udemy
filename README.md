@@ -1,6 +1,10 @@
 ## PYTHON PROGRAMMING 
-#
-| Folder | Purpose | Link |
-|--------|---------|------|
-| Arrays | Array programs | [Open](.\Concept_Programs\program1.py) |
+
+
+## Repository Structure
+
+| Program_NO | Description | Link |
+|-------------|-------------|------|
+| program1.py | Python practice program | [View Code](./Concept_Programs/program1.py) |
+
 
